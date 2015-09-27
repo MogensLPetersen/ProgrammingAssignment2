@@ -1,0 +1,17 @@
+{
+    "contents" : "myfunction <- function() {\n  x <- rnorm(100)  \n  mean(x)\n}",
+    "created" : 1440363552681.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4113813127",
+    "id" : "B1E2E376",
+    "lastKnownWriteTime" : 1438959654,
+    "path" : "~/Coursera/DataScience/RProgramming/Week3/ProgrammingAssignment2/myFunction.R",
+    "project_path" : "myFunction.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

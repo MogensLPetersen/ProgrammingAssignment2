@@ -1,0 +1,17 @@
+{
+    "contents" : "## Some atempt to make assignment\n## Put comments here that give an overall description of what your\n## functions do\n\n## Write a short comment describing this function\n## This function make of data stored in enviroment.\n\nmakeCacheMatrix <- function(x = matrix()) {\n\n}\n\n\n## Write a short comment describing this function\n## This function inverts a matrix's value\n\ncacheSolve <- function(x, ...) {\n        ## Return a matrix that is the inverse of 'x'\n}\n",
+    "created" : 1440363545831.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2879766026",
+    "id" : "67F5F870",
+    "lastKnownWriteTime" : 1440365036,
+    "path" : "~/Coursera/DataScience/RProgramming/Week3/ProgrammingAssignment2/cachematrix.R",
+    "project_path" : "cachematrix.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
